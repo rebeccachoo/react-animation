@@ -1,15 +1,19 @@
 .Lists {
 	width: 100%;
+	box-sizing: border-box;
+	padding: 0;
 }
 
 .Lists li {
 	list-style: none;
 	background-color: #fcdfa6;
-	width: 50%;
+	box-sizing: border-box;
+	margin: auto;
 	padding-top: 10px;
+	width: 50%;
+	margin: auto;
 	padding-bottom: 10px;
 	margin-bottom: 10px;
-
 	border-radius: 4px;
 	cursor: pointer;
 }

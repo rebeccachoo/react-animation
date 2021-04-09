@@ -35,8 +35,11 @@ class Lists extends Component {
 
 		return (
 			<div>
-				<button onClick={this.addListHandler}>Add Item</button>
-				<p>Click Item to Remove.</p>
+				<div>
+					<button onClick={this.addListHandler}>Add Item</button>
+				</div>
+				<br />
+				<div>Click Item to Remove.</div>
 				<TransitionGroup component="ul" className="Lists">
 					{showList}
 				</TransitionGroup>
