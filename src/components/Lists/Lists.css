@@ -1,0 +1,31 @@
+.Lists {
+	width: 100%;
+}
+
+.Lists li {
+	list-style: none;
+	background-color: #fcdfa6;
+	width: 50%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.fadeout-enter {
+	opacity: 0;
+}
+
+.fadeout-enter-active {
+	opacity: 1;
+	transition: opacity 0.7s ease-out;
+}
+.fadeout-exit {
+	opacity: 0;
+}
+.fadeout-exit-active {
+	opacity: 0.3;
+	transition: opacity 0.7s ease-out;
+}
