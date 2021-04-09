@@ -1,4 +1,4 @@
-# React - Hangman
+# React - React Transition 
 
 This is a simple example of React Transition, CSSTransition, and TransitionGroup.<br />
 
@@ -11,12 +11,12 @@ This is a simple example of React Transition, CSSTransition, and TransitionGroup
 
 You can simply download the files on your computer. <br />
 In terminal, install by typing `npm install`.  <br />
-And install confetti by typing `npm install --save react-confetti`.  <br />
+And install React Transition by typing `npm install react-transition-group --save`.  <br />
 And type `npm start` to start the program.
 
-## Change Answers
-
-You can insert/delete answers in the file. On #21 in 'src/containers/Game.js', you can find an array of answers. You add more or remove the answers you don't want. I put only animal answers but feel free to put any words you'd like.
+## Website 
+Learn more about React Transition at http://reactcommunity.org/react-transition-group/.
+ 
  
 ## Contributing
 
