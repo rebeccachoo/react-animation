@@ -4,8 +4,8 @@ This is a simple example of React Transition, CSSTransition, and TransitionGroup
 
 | Feature | Description |
 | -----: | :----------- |
-|  Slow Mode | <img src="https://github.com/rebeccachoo/react-hangman/blob/main/screen1.png?raw=true"  width="400">|
-|  Crazy Mode | <img src="https://github.com/rebeccachoo/react-hangman/blob/main/screen2.png?raw=true"  width="400">|
+|  Initial | <img src="https://github.com/rebeccachoo/react-animation/blob/main/FireShot%20Capture%201172%20-%20React%20App%20-%20localhost.png?raw=true"  width="400">|
+|  Modal | <img src="https://github.com/rebeccachoo/react-hangman/blob/main/screen2.png?raw=true"  width="400">|
 
 ## Installation
 
