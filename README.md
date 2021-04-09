@@ -1,4 +1,4 @@
-# React - React Transition 
+# React - React Transition Example
 
 This is a simple example of React Transition, CSSTransition, and TransitionGroup. First example will show a block slowly with fade animation. Second example will show a modal with animation. And Third one will add/remove an item with animation.<br />
 
